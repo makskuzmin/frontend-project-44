@@ -10,10 +10,6 @@ const playGameEven = (name) => {
     const question = getRandomNumber();
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
-    if (userAnswer !== 'yes' && userAnswer !== 'no') {
-      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer 'yes' or 'no'. Let's try again, ${name}!`);
-      return;
-    }
     const correctAnswer = question % 2 === 0 ? 'yes' : 'no';
     if (userAnswer === correctAnswer) {
       console.log('Correct!');
