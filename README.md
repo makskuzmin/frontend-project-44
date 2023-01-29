@@ -4,11 +4,11 @@
 
 Description:
 Console games:
-Brain-even - "Parity check"
-Brain-calc - "Calculator"
-Brain-gcd - "Greatest Common Divisor"
-Brain-progression - Arithmetic Progression"
-Brain-prime - "Is it a prime number?"
+- Brain-even - "Parity check"
+- Brain-calc - "Calculator"
+- Brain-gcd - "Greatest Common Divisor"
+- Brain-progression - Arithmetic Progression"
+- Brain-prime - "Is it a prime number?"
 
 Install: 
 ```
@@ -22,15 +22,15 @@ Minimum requirements:
 - install Node.js 
 
 Demonstration games:
-Brain-even:
+- Brain-even:
 https://asciinema.org/a/PUAzakbJb7Q6KFSaWWFfXgmgA
-Brain-calc:
+- Brain-calc:
 https://asciinema.org/a/wHK9Sg2wgiHW3P8akSZemZCSA
-Brain-gcd:
+- Brain-gcd:
 https://asciinema.org/a/0umC0u06Ob88QU3aLfYDcG5km
-Brain-progression:
+- Brain-progression:
 https://asciinema.org/a/r8nErEnIbtXwnMvLskx3E4oo1
-Brain-prime:
+- Brain-prime:
 https://asciinema.org/a/paQzybvCCXdd91uoK5DrvrVz5
 
 Launching games:
