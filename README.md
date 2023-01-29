@@ -4,15 +4,15 @@
 
 Description:
 Console games:
-1. Brain-even - "Parity check"
+Brain-even - "Parity check"
 https://asciinema.org/a/PUAzakbJb7Q6KFSaWWFfXgmgA
-2. Brain-calc - "Calculator"
+Brain-calc - "Calculator"
 https://asciinema.org/a/wHK9Sg2wgiHW3P8akSZemZCSA
-3. Brain-gcd - "Greatest Common Divisor"
+Brain-gcd - "Greatest Common Divisor"
 https://asciinema.org/a/0umC0u06Ob88QU3aLfYDcG5km
-4. Brain-progression - Arithmetic Progression"
+Brain-progression - Arithmetic Progression"
 https://asciinema.org/a/r8nErEnIbtXwnMvLskx3E4oo1
-5. Brain-prime - "Is it a prime number?"
+Brain-prime - "Is it a prime number?"
 https://asciinema.org/a/paQzybvCCXdd91uoK5DrvrVz5
 
 Install: 
@@ -25,6 +25,13 @@ sudo npm link
 Minimum requirements:
 - install npm
 - install Node.js 
+
+Demonstration games:
+Brain-even - https://asciinema.org/a/PUAzakbJb7Q6KFSaWWFfXgmgA
+Brain-calc - https://asciinema.org/a/wHK9Sg2wgiHW3P8akSZemZCSA
+Brain-gcd - https://asciinema.org/a/0umC0u06Ob88QU3aLfYDcG5km
+Brain-progression - https://asciinema.org/a/r8nErEnIbtXwnMvLskx3E4oo1
+Brain-prime - https://asciinema.org/a/paQzybvCCXdd91uoK5DrvrVz5
 
 Launching games:
 Enter the name of the game in the console:
