@@ -23,7 +23,7 @@ const playGameCalc = (name) => {
   for (let i = 0; i < numberRound; i += 1) {
     const firstNumber = getRandomNumber();
     const secondNumber = getRandomNumber();
-    const question = `${firstNumber}${operators[i]}${secondNumber}`;
+    const question = `${firstNumber} ${operators[i]} ${secondNumber}`;
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
     const correctAnswer = String(defineCorrectAnswer(firstNumber, secondNumber, operators[i]));
