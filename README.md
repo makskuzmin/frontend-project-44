@@ -5,15 +5,10 @@
 Description:
 Console games:
 Brain-even - "Parity check"
-https://asciinema.org/a/PUAzakbJb7Q6KFSaWWFfXgmgA
 Brain-calc - "Calculator"
-https://asciinema.org/a/wHK9Sg2wgiHW3P8akSZemZCSA
 Brain-gcd - "Greatest Common Divisor"
-https://asciinema.org/a/0umC0u06Ob88QU3aLfYDcG5km
 Brain-progression - Arithmetic Progression"
-https://asciinema.org/a/r8nErEnIbtXwnMvLskx3E4oo1
 Brain-prime - "Is it a prime number?"
-https://asciinema.org/a/paQzybvCCXdd91uoK5DrvrVz5
 
 Install: 
 ```
@@ -27,11 +22,16 @@ Minimum requirements:
 - install Node.js 
 
 Demonstration games:
-Brain-even - https://asciinema.org/a/PUAzakbJb7Q6KFSaWWFfXgmgA
-Brain-calc - https://asciinema.org/a/wHK9Sg2wgiHW3P8akSZemZCSA
-Brain-gcd - https://asciinema.org/a/0umC0u06Ob88QU3aLfYDcG5km
-Brain-progression - https://asciinema.org/a/r8nErEnIbtXwnMvLskx3E4oo1
-Brain-prime - https://asciinema.org/a/paQzybvCCXdd91uoK5DrvrVz5
+Brain-even:
+https://asciinema.org/a/PUAzakbJb7Q6KFSaWWFfXgmgA
+Brain-calc:
+https://asciinema.org/a/wHK9Sg2wgiHW3P8akSZemZCSA
+Brain-gcd:
+https://asciinema.org/a/0umC0u06Ob88QU3aLfYDcG5km
+Brain-progression:
+https://asciinema.org/a/r8nErEnIbtXwnMvLskx3E4oo1
+Brain-prime:
+https://asciinema.org/a/paQzybvCCXdd91uoK5DrvrVz5
 
 Launching games:
 Enter the name of the game in the console:
